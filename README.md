@@ -1,4 +1,4 @@
-# Java Mini Projects ☕
+# Java Utility Suite ☕
 
 Welcome to my Java learning repository!
 
